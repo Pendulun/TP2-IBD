@@ -6,7 +6,7 @@ Segundo trabalho prático de Introdução a Banco de Dados
 * **Victor Vieira**  [VictorKids](https://github.com/VictorKids).
 
 <h2> O BD</h2>
-<p>Porcausa do tamanho do BD, tive que salvar ele em várias partes para conseguir mandá-lo aqui para o github. Todas as tabelas do BD estão compactadas na pasta relativa ao BD sendo que cada tabela está em um arquivo diferente, <b>apenas as tabelas LOCALBR e UF estão juntas em um zip chamado parte1.</b></p>
+<p>Porcausa do tamanho do BD, tivemos que salvar ele em várias partes para conseguir mandá-lo aqui para o github. Todos os arquivos .csv   estão compactadas na pasta BDS sendo que está organizado de forma que as tabelas referentes às ocorrências de cada ano e semestre estão em zip com denominação apropriada, as tabelas de dominio estão em um diretório chamado 'Dominio' e as tabelas de pessoa, veiculo e ocorrenciaveiculo estão separadas por serem maiores que o máximo suportado pelo github.</p>
 <h2>Instruções</h2>
 <p>As instruções estão no arquivo Template_Queries e são super passíveis de mudanças já que não sei direito como funcionam os comandos sugeridos pelo professor e nem se é a forma correta de executar o dump. Acho que uma coisa que talvez seja mudada é transformar os arquivos compactados de .db para .sql mas isso apenas se for necessário.</p>
 <p>No arquivo PopulandoBD estão os comandos que eu tive que usar para conseguir criar o BD com base nos arquivos .csv e o esquema relacional apresentado no link http://dados.gov.br/dataset/acidentes-rodovias-federais. Ele é apenas uma demonstração de como eu fiz e provavelmente não será compilado com sucesso em outras máquinas porque eu fiz muitas mudanças nos arquivos .csv apresentados para que pudesse popular os dados. Porém, está aí para quem desejar ver.</p>
