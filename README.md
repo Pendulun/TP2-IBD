@@ -1,6 +1,9 @@
 # TP2-IBD
 Segundo trabalho prático de Introdução a Banco de Dados
-<p>Esse repositório tem como alvo os meus amigos que também compõem o grupo deste trabalho( **Davi Lage** [davilbs](https://github.com/davilbs)), porém estou mantendo-o público.</p>
+<p>Esse repositório tem como alvo os meus amigos que também compõem o grupo deste trabalho:</p>
+
+* **Davi Lage**  [davilbs](https://github.com/davilbs).
+
 <h2> O BD</h2>
 <p>Porcausa do tamanho do BD, tive que salvar ele em várias partes para conseguir mandá-lo aqui para o github. Todas as tabelas do BD estão compactadas na pasta relativa ao BD sendo que cada tabela está em um arquivo diferente, <b>apenas as tabelas LOCALBR e UF estão juntas em um zip chamado parte1.</b></p>
 <h2>Instruções</h2>
